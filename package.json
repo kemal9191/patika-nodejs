@@ -3,5 +3,23 @@
     "express": "^4.18.1",
     "fs": "^0.0.1-security",
     "moment": "^2.29.3"
-  }
+  },
+  "name": "nodejs-basics",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kemal9191/patika-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kemal9191/patika-nodejs/issues"
+  },
+  "homepage": "https://github.com/kemal9191/patika-nodejs#readme",
+  "description": "nodejs"
 }
